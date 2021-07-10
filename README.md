@@ -2,7 +2,7 @@
 
 ### About me
 
-💻  Front-End developer at @Gympass
+💻  Front-End developer
 </br>
 🎓  Graduated in Systems Analysis and Development at FIAP
  </br>
