@@ -1,4 +1,4 @@
-<h2 align="center">Hi, i'm Giovanna! 🙋‍♀️ </h2>
+<h2 align="center">Hi, I'm Giovanna! 🙋‍♀️ </h2>
 
 ### About me
 
@@ -8,7 +8,7 @@
  <br>
 📚  Studying to improve my skills
 <br>
-💕  Working with what i love
+💕  Working with what I love
 
 ### Skills
 
