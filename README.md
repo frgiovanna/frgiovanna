@@ -22,9 +22,6 @@
  </div>
  <br>
 
-
-![Giovanna Freitas' GitHub stats](https://github-readme-stats.vercel.app/api?username=frgiovanna&hide=prs&show_icons=true&theme=radical)
-
 ### Social
 
 <a href="https://www.instagram.com/fritasgi/">
